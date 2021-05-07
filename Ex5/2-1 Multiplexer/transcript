@@ -1,0 +1,167 @@
+# Reading C:/modeltech64_10.6d/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.6d Feb 24 2018
+# //
+# //  Copyright 1991-2018 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# OpenFile {C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v}
+vlib work
+vlog -reportprogress 300 -work work {C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v}
+# Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+# Start time: 21:23:24 on May 07,2021
+# vlog -reportprogress 300 -work work C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v 
+# -- Compiling module mux2to1
+# 
+# Top level modules:
+# 	mux2to1
+# End time: 21:23:24 on May 07,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v}
+# Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+# Start time: 21:23:37 on May 07,2021
+# vlog -reportprogress 300 -work work C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v 
+# -- Compiling module mux2to1
+# 
+# Top level modules:
+# 	mux2to1
+# End time: 21:23:37 on May 07,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v}
+# Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+# Start time: 21:23:38 on May 07,2021
+# vlog -reportprogress 300 -work work C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v 
+# -- Compiling module mux2to1
+# 
+# Top level modules:
+# 	mux2to1
+# End time: 21:23:38 on May 07,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v}
+# Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+# Start time: 21:34:03 on May 07,2021
+# vlog -reportprogress 300 -work work C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v 
+# -- Compiling module mux2to1
+# ** Error: C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v(1): (vlog-2110) Illegal reference to net array "w0".
+# ** Error: C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v(1): (vlog-2110) Illegal reference to net array "w1".
+# ** Error: C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v(1): (vlog-2110) Illegal reference to memory "f".
+# ** Error: C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v(9): (vlog-2110) Illegal reference to memory "f".
+# ** Error: C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v(9): Illegal LHS of assignment.
+# ** Error: C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v(9): (vlog-2110) Illegal reference to net array "w0".
+# ** Error: C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v(11): (vlog-2110) Illegal reference to memory "f".
+# ** Error: C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v(11): Illegal LHS of assignment.
+# ** Error: C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v(11): (vlog-2110) Illegal reference to net array "w1".
+# ** Warning: C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v(7): (vlog-2256) Event expressions should result in a singular type.
+# ** Warning: C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v(7): (vlog-2256) Event expressions should result in a singular type.
+# End time: 21:34:03 on May 07,2021, Elapsed time: 0:00:00
+# Errors: 9, Warnings: 2
+vlog -reportprogress 300 -work work {C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v}
+# Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+# Start time: 21:35:17 on May 07,2021
+# vlog -reportprogress 300 -work work C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v 
+# -- Compiling module mux2to1
+# 
+# Top level modules:
+# 	mux2to1
+# End time: 21:35:17 on May 07,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v}
+# Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+# Start time: 21:36:02 on May 07,2021
+# vlog -reportprogress 300 -work work C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v 
+# -- Compiling module Multiplexer_2_1
+# ** Error: (vlog-13069) C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v(16): near "EOF": syntax error, unexpected end of source code.
+# End time: 21:36:02 on May 07,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v}
+# Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+# Start time: 21:39:47 on May 07,2021
+# vlog -reportprogress 300 -work work C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v 
+# -- Compiling module Multiplexer_2_1
+# -- Compiling module mux_tb
+# 
+# Top level modules:
+# 	mux_tb
+# End time: 21:39:47 on May 07,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.mux_tb -novopt
+# vsim -gui work.mux_tb -novopt 
+# Start time: 21:40:05 on May 07,2021
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Refreshing C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/work.mux_tb
+# Loading work.mux_tb
+# Refreshing C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/work.Multiplexer_2_1
+# Loading work.Multiplexer_2_1
+add wave -position end  sim:/mux_tb/f
+add wave -position end  sim:/mux_tb/s
+add wave -position end  sim:/mux_tb/w0
+add wave -position end  sim:/mux_tb/w1
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+vsim -gui -novopt work.mux_tb
+# End time: 21:43:41 on May 07,2021, Elapsed time: 0:03:36
+# Errors: 0, Warnings: 1
+# vsim -gui -novopt work.mux_tb 
+# Start time: 21:43:41 on May 07,2021
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Loading work.mux_tb
+# Loading work.Multiplexer_2_1
+add wave -position end  sim:/mux_tb/f
+add wave -position end  sim:/mux_tb/s
+add wave -position end  sim:/mux_tb/w0
+add wave -position end  sim:/mux_tb/w1
+run
+run
+run
+run
+run
+run
+run
+run
+run
+vlog -reportprogress 300 -work work {C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v}
+# Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+# Start time: 21:44:14 on May 07,2021
+# vlog -reportprogress 300 -work work C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v 
+# -- Compiling module Multiplexer_2_1
+# -- Compiling module mux_tb
+# 
+# Top level modules:
+# 	mux_tb
+# End time: 21:44:14 on May 07,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+quit -sim
+vsim -gui -novopt work.mux_tb
+# End time: 21:44:44 on May 07,2021, Elapsed time: 0:01:03
+# Errors: 0, Warnings: 1
+# vsim -gui -novopt work.mux_tb 
+# Start time: 21:44:45 on May 07,2021
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Refreshing C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/work.mux_tb
+# Loading work.mux_tb
+# Refreshing C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/work.Multiplexer_2_1
+# Loading work.Multiplexer_2_1
+add wave -position end  sim:/mux_tb/f
+add wave -position end  sim:/mux_tb/s
+add wave -position end  sim:/mux_tb/w0
+add wave -position end  sim:/mux_tb/w1
+run
+run
+run
+run
+run
+# End time: 21:50:47 on May 07,2021, Elapsed time: 0:06:02
+# Errors: 0, Warnings: 1

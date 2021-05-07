@@ -1,1 +1,10 @@
+{C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/4-16 Decoder/decoder_4_16.v} {1 {vlog -work Decoder_4_16_lib -vopt -stats=none {C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/4-16 Decoder/decoder_4_16.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Decoder_2_4
+-- Compiling module Decoder_4_16
+-- Compiling module tb_decoder
 
+Top level modules:
+	tb_decoder
+
+} {} {}}

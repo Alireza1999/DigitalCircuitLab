@@ -1,0 +1,72 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer
+vMultiplexer_2_1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 8Pbz5=c7<A0nZd_OmckbO2
+Ik>3QkkEL7kQ6AYg<Pn6ZT0
+R0
+Z2 w1620407602
+Z3 8C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v
+Z4 FC:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v
+L0 1
+Z5 OL;L;10.6d;65
+Z6 !s108 1620407654.000000
+Z7 !s107 C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v|
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer/Multiplexer_2_1.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+n@multiplexer_2_1
+vmux2to1
+!s110 1620407117
+!i10b 1
+!s100 `EQ:D7z=F2LKW[b:7zRoN2
+IAY9l5Q2V>@2bVk_Jj6]dZ1
+R1
+R0
+w1620407113
+R3
+R4
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1620407117.000000
+R7
+R8
+!i113 0
+R9
+R10
+vmux_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 1eLKT=[NGJ>C<PElOe75`3
+IkjQW4H29d[197KPTB_`WN2
+R0
+R2
+R3
+R4
+L0 16
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
