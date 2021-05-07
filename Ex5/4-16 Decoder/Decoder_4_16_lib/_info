@@ -1,0 +1,102 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.6d/examples
+T_opt
+!s110 1620391477
+V?:a80_B>U_0hR=dW@OMb<2
+04 10 4 work tb_decoder fast 0
+=1-54e1ad328154-60953633-31d-2a88
+Z1 o-quiet -auto_acc_if_foreign -work Decoder_4_16_lib
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6d;65
+R0
+T_opt1
+!s110 1620391936
+VMKQ6GL<7b=O;6ViRIho671
+04 7 4 work dec2to4 fast 0
+=1-54e1ad328154-60953800-b1-2f10
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1620391965
+VUWHjf`BkXLmQ=IkkG677O2
+04 12 4 work Decoder_4_16 fast 0
+=1-54e1ad328154-6095381d-188-31f0
+R1
+R2
+n@_opt2
+R3
+R0
+vDecoder_2_4
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 VdVR3abR61zQ4_fSmz9=d2
+Im1fk]>zoZ4_OE>8<Y0E<31
+Z5 dC:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/4-16 Decoder
+Z6 w1620397232
+Z7 8C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/4-16 Decoder/decoder_4_16.v
+Z8 FC:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/4-16 Decoder/decoder_4_16.v
+L0 1
+Z9 OL;L;10.6d;65
+Z10 !s108 1620397241.000000
+Z11 !s107 C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/4-16 Decoder/decoder_4_16.v|
+Z12 !s90 -reportprogress|300|-work|Decoder_4_16_lib|-vopt|-stats=none|C:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/4-16 Decoder/decoder_4_16.v|
+!i113 0
+Z13 o-work Decoder_4_16_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@decoder_2_4
+vDecoder_4_16
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 5lZaihkzWMd`0I4kinLCk2
+Id6NGU5em?]0AT0]M:=HZE1
+R5
+R6
+R7
+R8
+L0 20
+R9
+R10
+R11
+R12
+!i113 0
+R13
+R2
+n@decoder_4_16
+vtb_decoder
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]]Nl7K=Ri50HGOlf4Diz_0
+IYBXVjj?3Ok@P2RDfM1X700
+R5
+R6
+R7
+R8
+L0 34
+R9
+R10
+R11
+R12
+!i113 0
+R13
+R2
