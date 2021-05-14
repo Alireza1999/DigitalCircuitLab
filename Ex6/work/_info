@@ -1,0 +1,134 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Salir/Desktop/DigitalCircuitLab/Ex5/2-1 Multiplexer
+T_opt
+!s110 1620988188
+V19E@:IS`AYN2HcPA=YP_z2
+04 5 4 work adder fast 0
+=1-54e1ad328154-609e511a-2f9-2238
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6d;65
+R0
+T_opt1
+!s110 1620988295
+VSgB9eKHXX>0fagZ8QgY]`2
+04 12 4 work Adder_module fast 0
+=1-54e1ad328154-609e5187-165-e54
+R1
+R2
+n@_opt1
+R3
+R0
+vAdder_module
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 l=femhzdgmRk`ME:iDo0b0
+I=V6z1P8=><<17VbM]Z33F0
+Z5 dC:/Users/Salir/Desktop/DigitalCircuitLab/Ex6
+w1620988167
+8C:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Adder_module.v
+FC:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Adder_module.v
+L0 1
+Z6 OL;L;10.6d;65
+!s108 1620988174.000000
+!s107 C:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Adder_module.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Adder_module.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@adder_module
+vClock_module
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 n;9:SUFl;ba2D6QXl8RLQ1
+IVck@fW^dW0QMk1b;UQ?B`1
+R5
+w1620998272
+8C:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Clock_module.v
+FC:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Clock_module.v
+L0 1
+R6
+!s108 1620998391.000000
+!s107 C:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Clock_module.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Clock_module.v|
+!i113 0
+R7
+R2
+n@clock_module
+vCpu
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 C>2Ndz4KoVzM2JjD30JJ`3
+IO5IQn6OO=VYB@:QBfnn`63
+R5
+Z8 w1621003920
+Z9 8C:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Cpu.v
+Z10 FC:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Cpu.v
+L0 1
+R6
+Z11 !s108 1621003925.000000
+Z12 !s107 C:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Cpu.v|
+Z13 !s90 -reportprogress|300|-work|work|C:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Cpu.v|
+!i113 0
+R7
+R2
+n@cpu
+vMux_module
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 669mf1c]DRkH2Pd_N>GTj3
+I<cQDh976FI^D<RnRWAfi_2
+R5
+w1620998011
+8C:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Mux_module.v
+FC:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Mux_module.v
+L0 1
+R6
+!s108 1620998017.000000
+!s107 C:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Mux_module.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Salir/Desktop/DigitalCircuitLab/Ex6/Mux_module.v|
+!i113 0
+R7
+R2
+n@mux_module
+vtb_cpu
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 N9oX4leeU9OU1o1iRnCR;0
+I6^`@a^e>h2j8OUNId4;bF0
+R5
+R8
+R9
+R10
+L0 34
+R6
+R11
+R12
+R13
+!i113 0
+R7
+R2
