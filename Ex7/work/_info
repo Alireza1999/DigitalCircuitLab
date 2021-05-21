@@ -50,3 +50,24 @@ r1
 !i113 0
 R3
 R4
+vshift
+!s110 1621625329
+!i10b 1
+!s100 CWXX:E1Ao3kbbI1LH[hg^2
+INOL3lcEi^jh4LJTNaYPaN2
+R0
+R1
+w1621625324
+8C:/Users/Salir/Desktop/DigitalCircuitLab/Ex7/shift.v
+FC:/Users/Salir/Desktop/DigitalCircuitLab/Ex7/shift.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1621625329.000000
+!s107 C:/Users/Salir/Desktop/DigitalCircuitLab/Ex7/shift.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Salir/Desktop/DigitalCircuitLab/Ex7/shift.v|
+!i113 0
+R3
+R4
